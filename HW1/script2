@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac /home/vladimir/Документы/Prog/ITMO/java/HelloWorld.java
+java -cp . HelloWorld
